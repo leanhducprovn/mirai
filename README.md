@@ -105,7 +105,7 @@ node login.js
 npm start
 ```
 
-**Và cùng nhiều anh em tester đã đồng hành cùng project! Cảm ơn!**
+**Nhiều anh em tester đã đồng hành cùng project! Xin cảm ơn tất !**
 
 ## License
 
